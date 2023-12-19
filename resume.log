@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.1)  8 NOV 2023 16:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.18)  18 DEC 2023 22:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Aleja/GitHub/Resume/resume.tex
-(c:/Users/Aleja/GitHub/Resume/resume.tex
+**f:/Resume/resume.tex
+(f:/Resume/resume.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -32,7 +32,7 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip50
 ) (C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
-Package: titlesec 2021/07/05 v2.14 Sectioning titles
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip51
 \aftertitleunit=\skip52
@@ -71,7 +71,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 ) (C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
  (C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 ) (C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
@@ -193,7 +193,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
 ) (C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/08/29 v3.93 The Babel package
+Package: babel 2023/09/29 v3.95 The Babel package
 \babel@savecnt=\count273
 \U@D=\dimen151
 \l@unhyphenated=\language79
@@ -324,17 +324,17 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 8178769A591DAE54593BE5DC5893BD68;390.
  ) 
 Here is how much of TeX's memory you used:
- 10618 strings out of 475248
- 168339 string characters out of 5757813
- 1951801 words of memory out of 5000000
- 32012 multiletter control sequences out of 15000+600000
+ 10626 strings out of 475248
+ 168302 string characters out of 5757812
+ 1949785 words of memory out of 5000000
+ 32020 multiletter control sequences out of 15000+600000
  563661 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,316b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,285b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 115598 bytes).
+Output written on resume.pdf (1 page, 114348 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

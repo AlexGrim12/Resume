@@ -1,6 +1,6 @@
-PWD c:\Users\Aleja\GitHub\Resume
+PWD f:\Resume
 INPUT C:\Users\Aleja\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Aleja\GitHub\Resume\resume.tex
+INPUT f:\Resume\resume.tex
 OUTPUT resume.log
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
