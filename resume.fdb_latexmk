@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1717797628.70448 "c:/Users/Aleja/GitHub/Resume/resume.tex" "resume.pdf" "resume" 1717797630.79029 0
-  "C:/Users/Aleja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1717792416 869148 0454d6ba78c1a5d13c3b0171b5e27983 ""
+["pdflatex"] 1717799360.07277 "c:/Users/Aleja/GitHub/Resume/resume.tex" "resume.pdf" "resume" 1717799362.17559 0
+  "C:/Users/Aleja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1717797810 869148 0454d6ba78c1a5d13c3b0171b5e27983 ""
   "C:/Users/Aleja/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1717791151 24225045 cc1486793972749f040bd8674442216c ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -30,8 +30,8 @@
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1704647332 150008 7a05b0fdc0167c04e192003e780ab195 ""
-  "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/en/babel-en.ini" 1704647334 3966 caeee5a9e5771d4446aa1ca9015ba1b2 ""
-  "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/en/babel-english.tex" 1704647334 336 ed676b5e7dfd862bc78d634f6a973f37 ""
+  "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1704647334 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
+  "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-spanish.tex" 1704647334 336 a1c472f674f6f0c25a2c95ad8c7ad024 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/babel/txtbabel.def" 1704647332 6948 df63e25be1d2bc35bbad5a0141f41348 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -48,7 +48,7 @@
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 c30e5c373bc58bde21f8f63a3091626f ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/atveryend/atveryend.sty" 1576101110 19336 ce7ae9438967282886b3b036cfad1e4d ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.sty" 1576538732 3935 57aa3c3e203a5c2effb4d2bd2efbc323 ""
-  "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/babel-english/english.ldf" 1623001666 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
+  "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/babel-spanish/spanish.ldf" 1622279580 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty" 1705273578 3045 273c666a54e60b9f730964f431a56c1b ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty" 1705273579 2462 6bc53756156dbd71c1ad550d30a3b93f ""
@@ -83,10 +83,10 @@
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1700599895 7147 d45559f8a31b8c53ada0640516660003 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Aleja/GitHub/Resume/resume.tex" 1717797626 10694 fd6b1ec8a75a9877fe891e5496e00ae6 ""
-  "resume.aux" 1717797630 1022 b7e8c47da074fb72e2b593e7ad79de2b "pdflatex"
-  "resume.out" 1717797630 817 9a3170fff1b9f58fbfb29b2a168d32fb "pdflatex"
-  "resume.tex" 1717797626 10694 fd6b1ec8a75a9877fe891e5496e00ae6 ""
+  "c:/Users/Aleja/GitHub/Resume/resume.tex" 1717799358 9907 17e63b6573671ccd7f0e3aaee40b09e2 ""
+  "resume.aux" 1717799361 1006 00f91688ec3b80fd00055665d70abf50 "pdflatex"
+  "resume.out" 1717799361 769 a4b06509a9fa927f38aac4e5a500141f "pdflatex"
+  "resume.tex" 1717799358 9907 17e63b6573671ccd7f0e3aaee40b09e2 ""
   (generated)
   "resume.aux"
   "resume.log"
