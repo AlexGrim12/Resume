@@ -159,8 +159,9 @@ INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy6.tfm
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT C:\Users\Aleja\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT C:\Users\Aleja\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT resume.aux
 INPUT .\resume.out
 INPUT .\resume.out
@@ -168,6 +169,8 @@ INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\Aleja\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
