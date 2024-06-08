@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1717855953.43055 "c:/Users/Aleja/GitHub/Resume/resume.tex" "resume.pdf" "resume" 1717855955.71262 0
+["pdflatex"] 1717856906.51664 "c:/Users/Aleja/GitHub/Resume/resume.tex" "resume.pdf" "resume" 1717856908.70133 0
   "C:/Users/Aleja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1717797810 869148 0454d6ba78c1a5d13c3b0171b5e27983 ""
   "C:/Users/Aleja/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1717791151 24225045 cc1486793972749f040bd8674442216c ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -85,10 +85,10 @@
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1700599895 7147 d45559f8a31b8c53ada0640516660003 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Aleja/GitHub/Resume/resume.tex" 1717855952 8396 6a51a7d3809a40d97b337600faf64f33 ""
-  "resume.aux" 1717855955 918 735fb04751df2d9b2c722bb27130672c "pdflatex"
-  "resume.out" 1717855955 739 85607882b499414eb74da23999548ffa "pdflatex"
-  "resume.tex" 1717855952 8396 6a51a7d3809a40d97b337600faf64f33 ""
+  "c:/Users/Aleja/GitHub/Resume/resume.tex" 1717856906 8363 89a9a6d5238cbd307436a69e9db2c2e8 ""
+  "resume.aux" 1717856908 918 735fb04751df2d9b2c722bb27130672c "pdflatex"
+  "resume.out" 1717856908 739 85607882b499414eb74da23999548ffa "pdflatex"
+  "resume.tex" 1717856906 8363 89a9a6d5238cbd307436a69e9db2c2e8 ""
   (generated)
   "resume.aux"
   "resume.log"
