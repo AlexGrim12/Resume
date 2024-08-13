@@ -1,10 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1717856906.51664 "c:/Users/Aleja/GitHub/Resume/resume.tex" "resume.pdf" "resume" 1717856908.70133 0
-  "C:/Users/Aleja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1717797810 869148 0454d6ba78c1a5d13c3b0171b5e27983 ""
+["pdflatex"] 1723585958.45838 "c:/Users/Aleja/GitHub/Resume/resume.tex" "resume.pdf" "resume" 1723585960.77894 0
+  "C:/Users/Aleja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1723527021 869148 0454d6ba78c1a5d13c3b0171b5e27983 ""
   "C:/Users/Aleja/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1717791151 24225045 cc1486793972749f040bd8674442216c ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
-  "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbxti10.tfm" 1136765053 1532 9162035f4e7176612125649e348e2195 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -23,7 +22,6 @@
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/tfm/public/latex-fonts/lasy8.tfm" 1136765053 520 7bb3abb160b19e0ed6ac404bb59052b7 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
-  "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1247596667 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
@@ -85,10 +83,10 @@
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1700599895 7147 d45559f8a31b8c53ada0640516660003 ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/Aleja/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Aleja/GitHub/Resume/resume.tex" 1717856906 8363 89a9a6d5238cbd307436a69e9db2c2e8 ""
-  "resume.aux" 1717856908 918 735fb04751df2d9b2c722bb27130672c "pdflatex"
-  "resume.out" 1717856908 739 85607882b499414eb74da23999548ffa "pdflatex"
-  "resume.tex" 1717856906 8363 89a9a6d5238cbd307436a69e9db2c2e8 ""
+  "c:/Users/Aleja/GitHub/Resume/resume.tex" 1723585956 9700 00e5be51db80bbcfc416775b3599b8dc ""
+  "resume.aux" 1723585960 880 38c3fbe79e0f3ff879b2a1c37b7d0782 "pdflatex"
+  "resume.out" 1723585960 541 a5b2ee550d982a91ec4beb78dd781485 "pdflatex"
+  "resume.tex" 1723585956 9700 00e5be51db80bbcfc416775b3599b8dc ""
   (generated)
   "resume.aux"
   "resume.log"
